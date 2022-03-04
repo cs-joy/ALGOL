@@ -4,3 +4,7 @@
 
 # ALGOL
 ALGOL-'"Algorithmic Language" is a family of imperative computer programming languages originally developed in 1958
+
+### Family tree of the Algol, Fortran and COBOL programming language dynasty
+
+![Test](https://github.com/cs-joy/ALGOL/blob/main/Algol&Fortran_family-by-Borkowski.svg)
